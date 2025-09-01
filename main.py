@@ -18,7 +18,7 @@ age = 28
 if age < 18:
     print("Несовершеннолетний")
     print("Доступ ограничен")
-elif age >= 18 and age < 65:
+elif age >= 18 and age < 70:
      print("Взрослый")
      print("Доступ разрешен")
 else:
